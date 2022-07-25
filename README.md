@@ -14,7 +14,7 @@
 </p>
 
 - 📫 How to reach me **mohammed001saif@gmail.com** - 
-- 👨‍💻  **Code Blooded** Software Enginner
+- 👨‍💻  **Code Blooded** Software Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
