@@ -5,9 +5,6 @@
         src="https://komarev.com/ghpvc/?username=mohammedsaif001&label=Profile%20views&color=5cc0ff&style=plastic"
         alt="mohammedsaif001_Github" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kuldeep35291291" target="blank"><img
-            src="https://img.shields.io/twitter/follow/kuldeep35291291?logo=twitter&style=for-the-badge"
-            alt="mohammedsaif001" /></a> </p>
 
 - 📫 How to reach me **mohammed001saif@gmail.com**
 
