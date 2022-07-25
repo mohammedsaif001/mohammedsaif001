@@ -13,8 +13,8 @@
   />
 </p>
 
-- 📫 How to reach me **mohammed001saif@gmail.com** - ⚡ Fun fact **I think I am
-Funny**
+- 📫 How to reach me **mohammed001saif@gmail.com** - 
+- 👨‍💻  **Code Blooded** Software Enginner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
