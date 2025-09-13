@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saif</h1>
-<h3 align="center">Front End ReactJs Web Developer</h3>
+<h3 align="center">Frontend Team Lead - MERN Developer</h3>
 <img
   align="right"
   alt="coding"
