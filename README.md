@@ -38,6 +38,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -70,6 +86,22 @@
       height="40"
     />
   </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+      alt="tailwind-css"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"
+      alt="wordpress"
+      width="40"
+      height="40"
+    />
+  </a>
     <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -78,7 +110,7 @@
       height="40"
     />
   </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
       alt="nodejs"
@@ -86,7 +118,7 @@
       height="40"
     />
   </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
       alt="expressjs"
