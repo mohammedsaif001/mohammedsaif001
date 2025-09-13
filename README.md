@@ -38,6 +38,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javaScript"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
@@ -50,6 +58,22 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="reactJs"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+      alt="material-ui"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
       width="40"
       height="40"
     />
@@ -70,22 +94,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javaScript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
@@ -94,10 +102,10 @@
       height="40"
     />
   </a>
-    <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-      alt="material-ui"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
+      alt="azure-devops"
       width="40"
       height="40"
     />
