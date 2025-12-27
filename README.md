@@ -144,6 +144,7 @@
   </a>
 </p>
 
+
 <p>
   &nbsp;<img
     align="center"
@@ -151,3 +152,27 @@
     alt="mohammesaif001"
   />
 </p>
+
+<hr/>
+
+<h2 align="center">📊 GitHub Activity & Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mohammedsaif001&show_icons=true&count_private=true&theme=radical"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsaif001&theme=radical"
+    height="165"
+  />
+</p>
+
+<h3 align="center">Contribution Activity (Last 12 Months)</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsaif001&theme=react-dark&hide_border=true"
+  />
+</p>
+
