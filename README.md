@@ -1,178 +1,70 @@
-<h1 align="center">Hi 👋, I'm Mohammed Saif</h1>
-<h3 align="center">Frontend Team Lead - MERN Developer</h3>
-<img
-  align="right"
-  alt="coding"
-  width="400"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=mohammedsaif001&label=Profile%20views&color=5cc0ff&style=plastic"
-    alt="mohammedsaif001_Github"
-  />
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Mohammed Saif, Senior Software Engineer (Full-stack and GenAI) in Bengaluru" />
 </p>
-
-- 📫 How to reach me **mohammed001saif@gmail.com** - 
-- 👨‍💻  **Code Blooded** Software Engineer
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammedsaif001/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="mohammedsaif001_linkedIn"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/mohammedsaif001" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="mohammedsaif001_Instagram"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javaScript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="reactJs"
-      width="40"
-      height="40"
-    />
-  </a>
-      <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-      alt="material-ui"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
-      alt="tailwind-css"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"
-      alt="wordpress"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-      alt="expressjs"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
-      alt="azure-devops"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mohammedsaif001&show_icons=true&theme=synthwave&text_color=ffbb00&hide_border=true&cache_seconds=1800&locale=en"
-    alt="mohammesaif001"
-  />
-</p>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Activity & Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mohammedsaif001&show_icons=true&count_private=true&theme=radical"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsaif001&theme=radical"
-    height="165"
-  />
+  <a href="https://www.imohdsaif.in/"><img src="./assets/btn-portfolio.svg" height="46" alt="Portfolio: www.imohdsaif.in" /></a>
+  <a href="https://www.linkedin.com/in/mohammedsaif001/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/mohammedsaif001/"><img src="./assets/btn-leetcode.svg" height="46" alt="LeetCode" /></a>
+  <a href="mailto:imohdsaif.ai@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email imohdsaif.ai@gmail.com" /></a>
 </p>
-
-<h3 align="center">Contribution Activity (Last 12 Months)</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsaif001&theme=react-dark&hide_border=true"
-  />
+  <img src="https://komarev.com/ghpvc/?username=mohammedsaif001&label=Profile%20views&color=f0644a&style=flat-square" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="About me: senior software engineer building since 2021, putting GenAI to work inside enterprise products" />
+</p>
+
+<p align="center">
+  <img src="./assets/skills.svg" width="100%" alt="What I work with: Frontend, Backend, GenAI, Data, Cloud and DevOps" />
+</p>
+
+<p align="center">
+  <img src="./assets/experience.svg" width="100%" alt="Experience: Basofa Consulting, Aarabhya Systems, Nviera Technologies" />
+</p>
+
+<p align="center">
+  <img src="./assets/title-projects.svg" width="100%" alt="Things I've built" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%"><a href="https://grounded-brain.imohdsaif.in"><img src="./assets/project-grounded.svg" alt="Grounded Brain AI Notebook (live)" /></a></td>
+    <td width="50%"><a href="https://github.com/mohammedsaif001/agent-sdk-from-scratch"><img src="./assets/project-agent-sdk.svg" alt="Agent SDK Built From Scratch" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/project-d365-ai.svg" alt="D365 B2B Commerce AI Assistant" /></td>
+    <td width="50%"><img src="./assets/project-storefront.svg" alt="D365 B2B Storefront on the Commerce SDK" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/project-recon.svg" alt="Financial Reconciliation Platform" /></td>
+    <td width="50%"><img src="./assets/project-portal.svg" alt="Software Delivery Portal" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Grounded Brain: <a href="https://grounded-brain.imohdsaif.in">live</a> · <a href="https://github.com/mohammedsaif001/grounded-brain-notebook-llm">code</a> &nbsp;|&nbsp; Agent SDK: <a href="https://github.com/mohammedsaif001/agent-sdk-from-scratch">code</a> &nbsp;|&nbsp; Employer projects are private.</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/title-stats.svg" width="100%" alt="GitHub, by the numbers" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedsaif001&show_icons=true&count_private=true&bg_color=fffdf7&title_color=1f2430&text_color=1f2430&icon_color=f0644a&border_color=1f2430" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsaif001&layout=compact&bg_color=fffdf7&title_color=1f2430&text_color=1f2430&border_color=1f2430" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohammedsaif001&background=fffdf7&border=1f2430&ring=f0644a&fire=f0644a&currStreakLabel=1f2430&currStreakNum=1f2430&sideLabels=1f2430&sideNums=1f2430&dates=5b6272" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="./assets/contact.svg" width="100%" alt="Let's talk: open to senior full-stack and GenAI roles, imohdsaif.ai@gmail.com" />
+</p>
+
+<p align="center">
+  <a href="https://www.imohdsaif.in/"><b>www.imohdsaif.in</b></a> · the same story, as a hand-drawn whiteboard
+</p>
